@@ -3,10 +3,9 @@
 <title> 送什麼贈品才能吸睛，又讓消費者主動宣傳？看韓國UNIQLO發熱衣的創意| Motive商業洞察</title>
 
 </head>
-<body background="123.jpg"text="#000000">
 
 
-<a href="index.html">行銷案例</a>
+<a href="index.md">行銷案例</a>
 <p>
 <a href="4th.html"> 心得報告</a>
 <p>
